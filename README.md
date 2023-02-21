@@ -57,13 +57,13 @@
 
 <br />
 <center>
-<h3 style="font-family: 'IBM Plex Mono';font-size:1.75rem">Tools they let me play with at:  <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20BEE.svg" alt="IBM" style="vertical-align:middle;"> </h3> </center>
+<h3 style="font-family: 'IBM Plex Mono';font-size:1.75rem">Tools they let me play with at: <a href="https://www.ibm.com"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20BEE.svg" alt="IBM" style="vertical-align:middle;"></a> </h3> </center>
 
 <br>
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <a href="https://www.ibm.com/products/cloud-pak-for-data"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20cpd.svg" alt="Cloud Pak for Data" style="vertical-align:top; margin:4px">
+    <a href="https://www.ibm.com/products/cloud-pak-for-data"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20cpd.svg" alt="Cloud Pak for Data" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.ibm.com/cloud/watson-knowledge-catalog"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20WKC.svg" alt="Watson Knowledge Catalog" style="vertical-align:top; margin:4px"></a>    
   <a href="https://www.ibm.com/master-data-management"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20MDM.svg" alt="Master Data Management" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.ibm.com/products/cloud-pak-for-data/ai-governance"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20OpenScale.svg" alt="AI Governance" style="vertical-align:top; margin:4px">
