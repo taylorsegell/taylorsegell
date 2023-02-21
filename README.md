@@ -78,7 +78,7 @@
   <a href="https://www.ibm.com/products/databand"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20Databand.svg" alt="Databand" style="vertical-align:top; margin:4px">
 </p>
 <p align="center">
-   <img src="https://media0.giphy.com/media/8Aa34J5wI0gpLRS1pv/giphy.gif?cid=ecf05e471ltrg587u2s3sf7ebxmqvqgrq0zoybr29ez5wotr&rid=giphy.gif" />
+   <img src="https://media0.giphy.com/media/8Aa34J5wI0gpLRS1pv/giphy.gif?cid=ecf05e471ltrg587u2s3sf7ebxmqvqgrq0zoybr29ez5wotr&rid=giphy.gif" width="500" height="500" />
    </p>
 <!--
 ### - Blogs 🌱
