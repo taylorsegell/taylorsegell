@@ -26,7 +26,7 @@
  <h2>A little about myself</h2>
             <ul>
                 <li>Data and AI Specialist for IBM by day and a powderhound by every weekend I can get away 🏂 </li>
-                <li>I am not a coder, I just copy and paste from Stack Overflow</li>
+                <li>I like to think I am an excellent dev but in reality I'd be nowhere without Stack Overflow</li>
                 <li>I had grand dreams of becoming a historian, but then reality came crashing in like a ton of poorly
                     organized data.</li>
                 <li>I found myself knee-deep in technology, frantically learning everything I could about AI, Data
