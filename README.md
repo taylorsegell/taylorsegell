@@ -109,7 +109,7 @@
 </center></td>
 
 <td>
-<a href="http://www.github.com/taylorsegell"><img src="https://activity-graph.herokuapp.com/graph?username=taylorsegell&bg_color=1b1b1b&color=ffffff&line=B4CBBA&point=ffffff&area_color=1b1b1b&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/taylorsegell" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorsegell&langs_count=10&title_color=B4CBBA&text_color=ffffff&icon_color=B4CBBA&bg_color=1b1b1b&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
