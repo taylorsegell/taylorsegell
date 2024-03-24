@@ -25,7 +25,7 @@
 
  <h2>A little about myself</h2>
             <ul>
-                <li>Data and AI Specialist for IBM by day and a powderhound by every weekend I can get away 🏂 </li>
+                <li>Data and AI Dork for IBM by day and a powderhound by every weekend I can get away 🏂 </li>
                 <li>I like to think I am an excellent dev but in reality I'd be nowhere without Stack Overflow</li>
                 <li>I had grand dreams of becoming a historian, but then reality came crashing in like a ton of poorly
                     organized data.</li>
@@ -50,7 +50,7 @@
 
 <!--  -->
  <h5 align="center">
-   <i>Data Science and Machine Learning may seem sexier than Quality, Architecture, and Governance but without the QAG, its just empty coding</i>
+   <i>AI and Machine Learning may seem sexier than Quality, Architecture, and Governance but without the QAG, its just empty coding</i>
   </h5>
  
 
@@ -79,7 +79,7 @@
   <a href="https://www.ibm.com/products/databand"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/Databand.svg" alt="Databand" style="vertical-align:top; margin:4px">
 </p>
 <p align="center">
-   <img src="https://media0.giphy.com/media/8Aa34J5wI0gpLRS1pv/giphy.gif?cid=ecf05e471ltrg587u2s3sf7ebxmqvqgrq0zoybr29ez5wotr&rid=giphy.gif" width="500" height="500" />
+   <img src="https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/56/71/watsonx-timeline-build.gif"  />
    </p>
 <!--
 ### - Blogs 🌱
@@ -98,3 +98,21 @@
 
 
 <br />
+<center><h1>Stats</h1></center>
+<table>
+<tr>
+<td><center>
+<a href="http://www.github.com/taylorsegell"><img src="https://github-readme-stats.vercel.app/api?username=taylorsegell&show_icons=true&hide=&count_private=true&title_color=B4CBBA&text_color=ffffff&icon_color=B4CBBA&bg_color=1b1b1b&hide_border=true&show_icons=true" alt="taylorsegell's GitHub stats" /></a>
+
+<a href="http://www.github.com/taylorsegell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taylorsegell&stroke=ffffff&background=1b1b1b&ring=B4CBBA&fire=B4CBBA&currStreakNum=ffffff&currStreakLabel=B4CBBA&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+</center></td>
+
+<td>
+<a href="http://www.github.com/taylorsegell"><img src="https://activity-graph.herokuapp.com/graph?username=taylorsegell&bg_color=1b1b1b&color=ffffff&line=B4CBBA&point=ffffff&area_color=1b1b1b&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/taylorsegell" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorsegell&langs_count=10&title_color=B4CBBA&text_color=ffffff&icon_color=B4CBBA&bg_color=1b1b1b&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</td>
+</tr>
+</table>
