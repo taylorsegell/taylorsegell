@@ -57,25 +57,26 @@
 
 <br />
 <center>
-<h3 style="font-family: 'IBM Plex Mono';font-size:1.75rem">Tools they let me play with at: <a href="https://www.ibm.com"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20BEE.svg" alt="IBM" style="vertical-align:middle;"></a> </h3> </center>
+<h3 style="font-family: 'IBM Plex Mono';font-size:1.75rem">Tools they let me play with at: <a href="https://www.ibm.com"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/BEE.svg" alt="IBM" style="vertical-align:middle;"></a> </h3> </center>
 
 <br>
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <a href="https://www.ibm.com/products/cloud-pak-for-data"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20cpd.svg" alt="Cloud Pak for Data" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.ibm.com/cloud/watson-knowledge-catalog"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20WKC.svg" alt="Watson Knowledge Catalog" style="vertical-align:top; margin:4px"></a>    
-  <a href="https://www.ibm.com/master-data-management"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20MDM.svg" alt="Master Data Management" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.ibm.com/products/cloud-pak-for-data/ai-governance"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20OpenScale.svg" alt="AI Governance" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/products/data-replication"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20Replication.svg" alt="Data Replication" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/cloud/watson-studio"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20WatsonStudio.svg" alt="Watson Studio" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/products/watson-query?mhsrc=ibmsearch_a&mhq=Watson%20query"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20WatsonQuery.svg" alt="Watson Query" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/products/cloud-pak-for-data/data-science-mlops"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20WatsonML.svg" alt="Machine Learning" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/products/datastage"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20DataStage.svg" alt="DataStage" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/spss"> <img src="https://raw.githubusercontent.com//taylorsegell/icons/main/%20SPSS.svg" alt="SPSS" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/infosphere-optim"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20OptimDP.svg" alt="Optim" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/products/openpages-with-watson"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20OpenPages.svg" alt="OpenPages" style="vertical-align:top; margin:4px">
-  <a href="https://www.ibm.com/products/databand"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/%20Databand.svg" alt="Databand" style="vertical-align:top; margin:4px">
+    <a href="https://www.ibm.com/products/cloud-pak-for-data"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/CPD.svg" alt="Cloud Pak for Data" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.ibm.com/cloud/watson-knowledge-catalog"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/IKC.svg" alt="Watson Knowledge Catalog" style="vertical-align:top; margin:4px"></a>   
+    <a href="https://www.ibm.com/cloud/watson-knowledge-catalog"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/PDX.svg" alt="Data Product Exchange" style="vertical-align:top; margin:4px"></a>    
+  <a href="https://www.ibm.com/products/watsonx-ai"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/watsonxai.svg" alt="Master Data Management" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.ibm.com/products/cloud-pak-for-data/watsonx-governance"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/OpenScale.svg" alt="AI Governance" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/products/watsonx-data"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/watsonxdata.svg" alt="Data Replication" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/cloud/watson-studio"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/WatsonStudio.svg" alt="Watson Studio" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/products/watson-query?mhsrc=ibmsearch_a&mhq=Watson/query"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/WatsonQuery.svg" alt="Watson Query" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/products/cloud-pak-for-data/data-science-mlops"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/WatsonML.svg" alt="Machine Learning" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/products/datastage"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/DataStage.svg" alt="DataStage" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/spss"> <img src="https://raw.githubusercontent.com//taylorsegell/icons/main/SPSS.svg" alt="SPSS" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/infosphere-optim"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/watsonxgov.svg" alt="Optim" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/products/openpages-with-watson"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/OpenPages.svg" alt="OpenPages" style="vertical-align:top; margin:4px">
+  <a href="https://www.ibm.com/products/databand"> <img src="https://raw.githubusercontent.com/taylorsegell/icons/main/Databand.svg" alt="Databand" style="vertical-align:top; margin:4px">
 </p>
 <p align="center">
    <img src="https://media0.giphy.com/media/8Aa34J5wI0gpLRS1pv/giphy.gif?cid=ecf05e471ltrg587u2s3sf7ebxmqvqgrq0zoybr29ez5wotr&rid=giphy.gif" width="500" height="500" />
