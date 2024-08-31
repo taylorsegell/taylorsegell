@@ -19,7 +19,7 @@
                 </a>
 </div>
 <div align="center">
-<h3><img src="https://media2.giphy.com/media/l3vR16pONsV8cKkWk/giphy.gif" style="vertical-align:middle;width:2rem"> 👨🏻 Taylor Segell | 👁-🐝-Ⓜ️-er | 🗻 Denver, USA <img src="https://media2.giphy.com/media/l3vR16pONsV8cKkWk/giphy.gif" style="vertical-align:middle;width:2rem"></h3>
+<h3> style="vertical-align:middle;width:2rem"> 👨🏻 Taylor Segell | 👁-🐝-Ⓜ️-er | 🗻 Denver, USA </h3>
 </div>
 
 
