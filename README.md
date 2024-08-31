@@ -19,7 +19,7 @@
                 </a>
 </div>
 <div align="center">
-<h3> style="vertical-align:middle;width:2rem"> 👨🏻 Taylor Segell | 👁-🐝-Ⓜ️-er | 🗻 Denver, USA </h3>
+<h3>  👨🏻 Taylor Segell | 👁-🐝-Ⓜ️-er | 🗻 Denver, USA </h3>
 </div>
 
 
