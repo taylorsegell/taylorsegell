@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/di8qwlbds/image/upload/v1785190379/banner_jssgtk.png" width="100%" alt="Taylor Segell" />
+  <a href="https://www.taylorsegell.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://res.cloudinary.com/di8qwlbds/image/upload/v1785190379/banner_jssgtk.png" width="100%" alt="Taylor Segell" />
+  </a>
 </p>
-
 <br/>
 
 <p align="center">
